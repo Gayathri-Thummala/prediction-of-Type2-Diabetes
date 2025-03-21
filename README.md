@@ -4,4 +4,4 @@ Authors:
 
 [Sriya Choudary Yalavarthy](https://github.com/sriya632)
 
-Gayathri Thummala
+[Gayathri Tummala](https://github.com/Gayathri-Thummala)
